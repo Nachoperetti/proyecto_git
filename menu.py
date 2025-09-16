@@ -7,4 +7,6 @@ print("2. Agregar producto")
 
 print("3. Listar producto")
 
-print("4. Salir")
+print("4. Borrar producto")
+
+print("5. Salir")
