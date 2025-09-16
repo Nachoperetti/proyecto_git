@@ -1,1 +1,1 @@
-"# proyecto_git" 
+Este proyecto es una prueba de git
